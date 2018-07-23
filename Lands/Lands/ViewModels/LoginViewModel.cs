@@ -43,6 +43,8 @@
         {
             this.IsRemember = true;
             this.IsEnabled = true;
+            this.Email = "ajimmenezz@gmail.com";
+            this.Password = "1234";
         }
         #endregion
 
