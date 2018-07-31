@@ -10,6 +10,6 @@
         <tabs:BordersPage />
         <tabs:CurrenciesPage />
         <tabs:TranslationsPage />
-        <tabs:LangugesPage />
+        <tabs:LanguagesPage />
     </TabbedPage.Children>
 </TabbedPage>
